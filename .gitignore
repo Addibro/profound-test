@@ -3,3 +3,7 @@
 
 # htdocs
 /htdocs
+
+#profoundjs
+updatepui.js
+store_credentials.js
