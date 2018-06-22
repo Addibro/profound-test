@@ -1,0 +1,23 @@
+{
+  "name": "profoundjs-deployment",
+  "version": "1.0.0",
+  "description": "Profound.js Deployment",
+  "keywords": [
+    "profound",
+    "profoundjs",
+    "pjs",
+    "profound logic",
+    "profoundlogic",
+    "profound ui",
+    "profoundui"
+  ],
+  "dependencies": {
+    "profoundjs": "^4.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon start.js"
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "private": true
+}
